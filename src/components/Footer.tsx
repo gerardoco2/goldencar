@@ -7,7 +7,7 @@ export default function Footer() {
     <footer className="bg-black border-t border-white/5 pt-20 pb-10">
       <div className="container mx-auto px-6 md:px-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
-          
+
           {/* Brand */}
           <div className="col-span-1 lg:col-span-1">
             <a href="#" className="flex items-center gap-2 group mb-6">
@@ -51,15 +51,15 @@ export default function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-gold shrink-0 mt-0.5" />
-                <span className="text-gray-400 text-sm">123 Luxury Drive, Miami, FL 33101</span>
+                <span className="text-gray-400 text-sm">Av el Tenis, cerca del SIPEF</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-gold shrink-0" />
-                <span className="text-gray-400 text-sm">(555) 123-4567</span>
+                <span className="text-gray-400 text-sm">(Numero de freddy Acosta</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-gold shrink-0" />
-                <span className="text-gray-400 text-sm">booking@goldencar.com</span>
+                <span className="text-gray-400 text-sm">Goldencarcenter@gmail.com</span>
               </li>
             </ul>
           </div>
